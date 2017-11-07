@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="userName">User Name: </string>
+    <string name="email">Email: </string>
+    <string name="update">Update</string>
+    <string name="nameUpdate">Name</string>
+    <string name="emailUpdate">E-mail</string>
+    <string name="save">Save</string>
+    <string name="policy">Policy</string>
+</resources>
